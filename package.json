@@ -36,7 +36,21 @@
     "onlyBuiltDependencies": [
       "lefthook",
       "workerd"
-    ]
+    ],
+    "overrides": {
+      "basic-ftp": "6.2.1",
+      "defu": "6.1.5",
+      "ip-address": "10.7.4",
+      "js-yaml@^3": "3.15.2",
+      "js-yaml@^4": "4.3.2",
+      "nanoid": "3.3.18",
+      "postcss": "8.5.23",
+      "sharp": "0.35.5",
+      "smol-toml": "1.9.0",
+      "source-map-js": "1.2.2",
+      "svgo": "4.1.0",
+      "ws": "8.21.0"
+    }
   },
   "devDependencies": {
     "@changesets/cli": "2.29.7",
